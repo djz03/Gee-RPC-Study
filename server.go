@@ -1,9 +1,9 @@
-package Gee_RPC_Study
+package GeeRPC
 
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/djz03/Gee-RPC-Study/codec"
+	"github.com/djz03/GeeRPC/codec"
 	"io"
 	"log"
 	"net"

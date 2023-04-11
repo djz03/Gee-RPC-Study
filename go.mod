@@ -1,3 +1,3 @@
-module github.com/djz03/Gee-RPC-Study
+module github.com/djz03/GeeRPC
 
 go 1.19
